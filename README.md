@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/profile-header.gif" alt="Animated profile banner for Yunus Arda Güney: AI agents, backend systems, and engineering" width="100%" />
+
+</div>
+
 # Yunus Arda Güney
 
 **I build AI systems that do more than generate responses: they execute tasks, interact with tools, persist state, and handle failure.**
