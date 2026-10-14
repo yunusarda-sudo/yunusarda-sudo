@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/profile-header.gif" alt="Animated profile banner for Yunus Arda Güney: AI agents, backend systems, and engineering" width="100%" />
+
+</div>
+
 # Yunus Arda Güney
 
 Electrical & Electronics Engineering student at İzmir Kâtip Çelebi University.
