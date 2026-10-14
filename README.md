@@ -20,7 +20,7 @@ The project brings together Jarvis, ARDA Core/Hermes, and a separate shared memo
 
 The Linux/Raspberry Pi version is designed to run as background services, while Jarvis also has a macOS desktop application. I'm working on task execution, tool permissions, agent coordination, and persistent memory.
 
-The live Raspberry Pi deployment and full end-to-end integration are still being validated.
+The Raspberry Pi deployment and full end-to-end integration have not yet been fully verified.
 
 [Repository](https://github.com/yunusarda-sudo/arda-suite) · [Execution bridge](https://github.com/yunusarda-sudo/arda-suite/blob/main/apps/jarvis/arda/execution_bridge.py) · [Memory service](https://github.com/yunusarda-sudo/arda-suite/tree/main/services/memory)
 
@@ -34,9 +34,11 @@ The backend handles protected URL fetching, concurrent provider checks, failures
 
 ## Other work
 
-[**Randevuo**](https://randevuo.com.tr/) — WhatsApp-based appointment automation and scheduling for salons and barbershops.
+[**Randevuo**](https://randevuo.com.tr/) — WhatsApp-based appointment agents for salons and barbershops.
 
-[**Solveny**](https://solveny.tech/) — AI workflow automation for businesses.
+[**Solveny**](https://solveny.tech/) — AI agents and workflow automation for businesses.
+
+[**MODÜ-GRID**](https://modu-grid.com/) — An early-stage energy optimization project for buildings and industrial facilities.
 
 **OPVIA** — A student opportunity discovery platform for internships, programs, competitions, and events. Currently developed privately.
 
