@@ -6,42 +6,58 @@
 
 # Yunus Arda Güney
 
-Electrical & Electronics Engineering student at İzmir Kâtip Çelebi University.
+<p align="left">
+  <strong>Electrical & Electronics Engineering student at İzmir Kâtip Çelebi University.</strong><br/>
+  I build <strong>autonomous AI agents</strong>, <strong>verifiable execution runtimes</strong>, <strong>local-first assistants</strong>, and <strong>data-driven backend systems</strong>.
+</p>
 
-I work on AI agents, backend systems, and SaaS products. I'm particularly interested in building systems that can interact with tools, manage state, and run on real hardware.
-
-## Open-source projects
-
-### [ARDA Suite](https://github.com/yunusarda-sudo/arda-suite)
-
-A self-hosted AI assistant and experimental agent runtime designed with **Raspberry Pi 5 as a primary deployment target**.
-
-The project brings together Jarvis, ARDA Core/Hermes, and a separate shared memory service using MCP and Qdrant.
-
-The Linux/Raspberry Pi version is designed to run as background services, while Jarvis also has a macOS desktop application. I'm working on task execution, tool permissions, agent coordination, and persistent memory.
-
-The Raspberry Pi deployment and full end-to-end integration have not yet been fully verified.
-
-[Repository](https://github.com/yunusarda-sudo/arda-suite) · [Execution bridge](https://github.com/yunusarda-sudo/arda-suite/blob/main/apps/jarvis/arda/execution_bridge.py) · [Memory service](https://github.com/yunusarda-sudo/arda-suite/tree/main/services/memory)
-
-### [Pickable](https://github.com/yunusarda-sudo/pickable)
-
-A Python-based website analysis tool combining agent-readiness and marketing signals from multiple sources.
-
-The backend handles protected URL fetching, concurrent provider checks, failures, SQLite persistence, and REST/MCP interfaces.
-
-[Repository](https://github.com/yunusarda-sudo/pickable) · [Orchestrator](https://github.com/yunusarda-sudo/pickable/blob/main/app/orchestrator.py) · [Tests](https://github.com/yunusarda-sudo/pickable/tree/main/tests)
-
-## Other work
-
-[**Randevuo**](https://randevuo.com.tr/) — WhatsApp-based appointment agents for salons and barbershops.
-
-[**Solveny**](https://solveny.tech/) — AI agents and workflow automation for businesses.
-
-[**MODÜ-GRID**](https://modu-grid.com/) — An early-stage energy optimization project for buildings and industrial facilities.
-
-**OPVIA** — A student opportunity discovery platform for internships, programs, competitions, and events. Currently developed privately.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6C5CE7?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/macOS%20%7C%20Linux-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS and Linux" />
+</p>
 
 ---
 
-Interested in agent infrastructure, distributed systems, and practical AI applications.
+## ⚡ Featured Open-Source Projects
+
+### 🎙️ [ARDA Suite](https://github.com/yunusarda-sudo/arda-suite)
+> **Local-first assistant infrastructure, verifiable bounded agent execution, and persistent shared memory.**
+
+- **Jarvis Desktop:** macOS menu bar voice assistant with instant push-to-talk (`⌘⇧A`), floating Wispr Flow-style dictation (`⌘⇧D`), and headless Linux/Raspberry Pi background daemon.
+- **Verifiable Bounded Execution:** Deterministic `AUTO / CONFIRM / DENY` tool permission gates, step verification, and tamper-evident audit logs.
+- **Shared Memory Service:** Standalone long-term vector memory daemon powered by [mem0](https://github.com/mem0ai/mem0) and [Qdrant](https://qdrant.tech/) with standardized Model Context Protocol (MCP) HTTP endpoint.
+
+[📂 Repository](https://github.com/yunusarda-sudo/arda-suite) · [📐 Architecture](https://github.com/yunusarda-sudo/arda-suite#architecture--components) · [📑 Specifications](https://github.com/yunusarda-sudo/arda-suite/tree/main/apps/jarvis/docs/specs)
+
+---
+
+### 🔍 [Pickable](https://github.com/yunusarda-sudo/pickable)
+> **Multi-source website analysis engine combining AI agent-readiness and marketing signals.**
+
+- High-throughput scraper and analyzer resilient against protected URL barriers and provider rate limits.
+- Concurrent multi-provider checks, SQLite persistence, and structured REST / MCP interfaces for agent workflows.
+
+[📂 Repository](https://github.com/yunusarda-sudo/pickable) · [⚙️ Orchestrator](https://github.com/yunusarda-sudo/pickable/blob/main/app/orchestrator.py) · [🧪 Tests](https://github.com/yunusarda-sudo/pickable/tree/main/tests)
+
+---
+
+## 🚀 Products & Ventures
+
+- 📅 [**Randevuo**](https://randevuo.com.tr/) — Autonomous WhatsApp-based AI appointment booking agents for service businesses.
+- 💼 [**Solveny**](https://solveny.tech/) ([solveny.dev](https://solveny.dev)) — Custom AI agent implementations and enterprise workflow automation.
+- ⚡ [**MODÜ-GRID**](https://modu-grid.com/) — IoT & AI-driven energy consumption optimization for commercial facilities.
+- 🎓 **OPVIA** — Student opportunity, internship & competition discovery platform.
+
+---
+
+## 📬 Connect
+
+- 🌐 **Website:** [solveny.dev](https://solveny.dev)
+- 💻 **GitHub:** [@yunusarda-sudo](https://github.com/yunusarda-sudo)
+- 📍 **Location:** Izmir, Türkiye
