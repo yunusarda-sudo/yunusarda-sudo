@@ -53,6 +53,8 @@ Active contributor to premier autonomous AI agents, Model Context Protocol (MCP)
 
 | Ecosystem / Project | Pull Request | Contribution Focus & Highlights |
 | :--- | :--- | :--- |
+| **[modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)** | [#2719](https://github.com/modelcontextprotocol/inspector/issues/2719) / [`1e45133e`](https://github.com/yunusarda-sudo/inspector/commit/1e45133e3b09d60223838f06bf38405a2e3ab114) | Isolated CLI test suites from developer's real `~/.mcp-inspector` OAuth state with temp dirs and runtime guards (Official Anthropic MCP repo). TypeScript, Vitest, 614 tests. |
+| **[coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest)** | [#611](https://github.com/coderamp-labs/gitingest/pull/611) | Preserved notebook cells on image-only `display_data` outputs lacking `text/plain` and supported string outputs (Fixes #608). Python, Pytest. |
 | **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [#18609](https://github.com/All-Hands-AI/OpenHands/pull/18609) | Prioritized draft validation errors over historical test runs in Agent Canvas (Fixes #18601). TypeScript, React, Vitest. |
 | **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** | [#5795](https://github.com/PrefectHQ/fastmcp/pull/5795) | Propagated public metadata in built-in file, directory, and HTTP resources (Fixes #5777). Python, `prek`, 371 tests. |
 | **[browser-use/browser-use](https://github.com/browser-use/browser-use)** | [#6126](https://github.com/browser-use/browser-use/pull/6126) | Filtered non-positive and out-of-bounds coordinates in DOM paint order for vision web agents (Fixes #5987). Python, Cubic AI approved. |
