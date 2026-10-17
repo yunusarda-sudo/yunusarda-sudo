@@ -47,6 +47,24 @@
 
 ---
 
+## 🌐 Open-Source Contributions & AI Agent Ecosystem Impact
+
+Active contributor to premier autonomous AI agents, Model Context Protocol (MCP), and web agent runtimes:
+
+| Ecosystem / Project | Pull Request | Contribution Focus & Highlights |
+| :--- | :--- | :--- |
+| **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** | [#18609](https://github.com/All-Hands-AI/OpenHands/pull/18609) | Prioritized draft validation errors over historical test runs in Agent Canvas (Fixes #18601). TypeScript, React, Vitest. |
+| **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** | [#5795](https://github.com/PrefectHQ/fastmcp/pull/5795) | Propagated public metadata in built-in file, directory, and HTTP resources (Fixes #5777). Python, `prek`, 371 tests. |
+| **[browser-use/browser-use](https://github.com/browser-use/browser-use)** | [#6126](https://github.com/browser-use/browser-use/pull/6126) | Filtered non-positive and out-of-bounds coordinates in DOM paint order for vision web agents (Fixes #5987). Python, Cubic AI approved. |
+| **[Muvon/octomind](https://github.com/Muvon/octomind)** | [#177](https://github.com/Muvon/octomind/pull/177) | Implemented `serde_ignored` unknown key diagnostics and TOML scalar-after-table trap detection in validate mode (Fixes #165). Rust. |
+| **[XAGI-Lab/melra](https://github.com/XAGI-Lab/melra)** | [#235](https://github.com/XAGI-Lab/melra/pull/235) | Resolved popup adoption race conditions during `tab_new` via `WeakSet` and async event queues (Fixes #233). TypeScript, DCO signoff. |
+| **[kitsuno-ai/agentic-job-search-eu](https://github.com/kitsuno-ai/agentic-job-search-eu)** | [#3](https://github.com/kitsuno-ai/agentic-job-search-eu/pull/3) | Implemented Kaplan-Meier delayed entry (left-truncation) survival analysis and minimal Git diff object serialization. Python. |
+| **[cremind-ai/cremind](https://github.com/cremind-ai/cremind)** | [#178](https://github.com/cremind-ai/cremind/pull/178) | Built deterministic unit test harness for MCP stdio and HTTP connection transports. TypeScript. |
+| **[radioso-ai/radioso](https://github.com/radioso-ai/radioso)** | [#1559](https://github.com/radioso-ai/radioso/pull/1559) | Hardened worker failure telemetry to omit reports for expected permanent job errors. Python. |
+| **[Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL)** | [#282](https://github.com/Human-Agent-Society/CORAL/pull/282) | Hardened gateway configuration override security for multi-agent social simulations. Python. |
+
+---
+
 ## 🚀 Products & Ventures
 
 - 📅 [**Randevuo**](https://randevuo.com.tr/) — Autonomous WhatsApp-based AI appointment booking agents for service businesses.
