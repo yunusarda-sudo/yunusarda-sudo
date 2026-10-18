@@ -8,17 +8,23 @@
 
 <p align="left">
   <strong>Electrical & Electronics Engineering student at İzmir Kâtip Çelebi University.</strong><br/>
-  I build <strong>autonomous AI agents</strong>, <strong>verifiable execution runtimes</strong>, <strong>local-first assistants</strong>, and <strong>data-driven backend systems</strong>.
+  I build <strong>autonomous AI agents</strong>, <strong>verifiable execution runtimes</strong>, <strong>local-first assistants</strong>, <strong>embedded systems & edge computing</strong>, and <strong>data-driven backend systems</strong>.
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6C5CE7?style=flat-square" alt="MCP" />
   <img src="https://img.shields.io/badge/Qdrant-Vector_DB-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <br/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/macOS%20%7C%20Linux-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS and Linux" />
 </p>
 
@@ -62,7 +68,8 @@ Active contributor to premier autonomous AI agents, Model Context Protocol (MCP)
 | **[coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest)** | [#610](https://github.com/coderamp-labs/gitingest/pull/610) | Enforced `max_file_size` limits on single-file ingestion with diagnostic `ValueError` exceptions (Fixes #609). Python, Pytest. |
 | **[XAGI-Lab/melra](https://github.com/XAGI-Lab/melra)** | [#235](https://github.com/XAGI-Lab/melra/pull/235) | Resolved popup adoption race conditions during `tab_new` via `WeakSet` and async event queues (Fixes #233). TypeScript, DCO signoff. |
 | **[kitsuno-ai/agentic-job-search-eu](https://github.com/kitsuno-ai/agentic-job-search-eu)** | [#3](https://github.com/kitsuno-ai/agentic-job-search-eu/pull/3) | Implemented Kaplan-Meier delayed entry (left-truncation) survival analysis and minimal Git diff object serialization. Python. |
-| **[cremind-ai/cremind](https://github.com/cremind-ai/cremind)** | [#178](https://github.com/cremind-ai/cremind/pull/178) | Built deterministic unit test harness for MCP stdio and HTTP connection transports. TypeScript. |
+| **[cremind-ai/cremind](https://github.com/cremind-ai/cremind)** | [#178](https://github.com/cremind-ai/cremind/pull/178) | Built deterministic unit test harness for MCP stdio and HTTP connection transports and auth lifecycle. Python, Pytest. |
+| **[taskade/mcp](https://github.com/taskade/mcp)** | [#103](https://github.com/taskade/mcp/pull/103) | Built reproducible unit test suite for OpenAPI schema codegen, parameter unification, and Zod constraint compilation. TypeScript, Vitest. |
 | **[radioso-ai/radioso](https://github.com/radioso-ai/radioso)** | [#1559](https://github.com/radioso-ai/radioso/pull/1559) | Hardened worker failure telemetry to omit reports for expected permanent job errors. Python. |
 | **[Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL)** | [#282](https://github.com/Human-Agent-Society/CORAL/pull/282) | Hardened gateway configuration override security for multi-agent social simulations. Python. |
 
