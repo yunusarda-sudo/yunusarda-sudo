@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="t d">
+  <title id="t">Yunus Arda Güney</title>
+  <desc id="d">Electrical and electronics engineering student building AI agent tooling, MCP infrastructure and embedded systems.</desc>
+  <rect width="1200" height="240" rx="12" fill="#f6f8fa"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="11.5" fill="none" stroke="#d0d7de"/>
+  <g stroke="#e4e8ec" stroke-width="1">
+    <path d="M640 40V200M720 40V200M800 40V200M880 40V200M960 40V200M1040 40V200M1120 40V200"/>
+    <path d="M600 80H1160M600 120H1160M600 160H1160"/>
+  </g>
+  <path d="M600 160H660V80H720V160H780V80H840" fill="none" stroke="#1a7f37" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M840 80C870 80 880 160 910 160S950 80 980 80 1020 160 1050 160 1090 80 1120 80H1160" fill="none" stroke="#1a7f37" stroke-width="2.5"/>
+  <circle cx="840" cy="80" r="4" fill="#1a7f37"/>
+  <text x="64" y="104" fill="#1f2328" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-0.5">Yunus Arda Güney</text>
+  <text x="64" y="144" fill="#59636e" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20">AI agent tooling · MCP infrastructure · embedded systems</text>
+  <text x="64" y="188" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">EEE @ İzmir Kâtip Çelebi University</text>
+</svg>
