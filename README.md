@@ -41,8 +41,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/yunusarda-sudo/arda-suite">ARDA Suite</a></h3>
-      <p><strong>Local-first assistant runtime with verifiable bounded agent execution.</strong></p>
+      <h3>🎙️ <a href="https://github.com/yunusarda-sudo/arda-suite">AegisOS</a></h3>
+      <p><strong>Local-first desktop voice assistant & verifiable bounded agent runtime.</strong></p>
       <ul>
         <li><strong>Jarvis:</strong> macOS menu bar voice assistant with instant push-to-talk (<code>⌘⇧A</code>) and dictation (<code>⌘⇧D</code>)</li>
         <li><strong>Verifiable Engine:</strong> Deterministic <code>AUTO / CONFIRM / DENY</code> tool permission gates</li>
