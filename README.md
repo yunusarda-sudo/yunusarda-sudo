@@ -19,9 +19,11 @@ A lightweight way to carry decisions, constraints, evidence, and working state b
 
 ## Open source, beyond my own repos
 
-I contribute fixes to developer tools and agent infrastructure. A couple of merged examples:
+I contribute fixes to developer tools, POSIX utilities, and agent infrastructure. A few merged and verified examples:
 
+- [uutils/diffutils #420](https://github.com/uutils/diffutils/pull/420) — Align unified diff deletion/insertion hunk ordering with GNU diff.
 - [uutils/sed #710](https://github.com/uutils/sed/pull/710) — Fix range handling in a sed edge case.
+- [browser-use/browser-harness #993](https://github.com/browser-use/browser-harness/pull/993) — Daemon startup log rotation to preserve crash traces.
 - [Muvon/octomind #177](https://github.com/Muvon/octomind/pull/177) — Surface ignored or unknown configuration keys.
 
 [See my merged upstream pull requests](https://github.com/search?q=author%3Ayunusarda-sudo+is%3Apr+is%3Amerged+-user%3Ayunusarda-sudo&type=pullrequests)
